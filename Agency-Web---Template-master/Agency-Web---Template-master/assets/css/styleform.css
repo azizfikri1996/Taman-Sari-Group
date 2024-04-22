@@ -1,0 +1,15 @@
+.box-form {
+    text-align: center;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-flow: row wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.label-form {
+    color: black;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
